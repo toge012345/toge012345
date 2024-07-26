@@ -27,7 +27,7 @@ C&C++, HTML5, CSS, JAVASCRIPT
 
 -  🗺 Currently living in **Africa**
 
-- 🔭 I’m currently working on [TOGE-MD BOTS](https://github.com/toge012345/TOGE-MD)
+- 🔭 I’m currently working on [TOGE-MD-V2](https://github.com/toge012345/TOGE-MD-V2)
 
 - 🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
 
@@ -47,7 +47,7 @@ C&C++, HTML5, CSS, JAVASCRIPT
 <
 
 ### 📊 Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=toge012345&repo=TOGE-MD&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=toge012345&repo=TOGE-MD-V2&theme=radical)
 
 ---
 
