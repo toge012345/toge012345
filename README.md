@@ -19,7 +19,7 @@
 
 -  🗺 Currently living in **Africa**
 
-- 🔭 I’m currently working on [TOGE-MD-V2](https://github.com/toge012345/TOGE-MD-V2)
+- 🔭 I’m currently working on [TOGE-MD-V3](https://github.com/toge012345/TOGE-MD-V3)
 
 - 🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
 
@@ -32,8 +32,6 @@
 - 📫 How to reach me **lioneloff@outlook.fr**
  
 - 🚩Instagram : https://instagram.com/lawliet.kfx/
-
-- ⚡️ Fun fact...
 
 
 ### 📊 Repo Stats : 
