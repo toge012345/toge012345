@@ -11,14 +11,6 @@
 </p>
 
 
-## 📕 About Me
-I'm a College Student...
-CS Student...
-I Can Edit Source Files...
-
-## 🛠 Skills
-C&C++, HTML5, CSS, JAVASCRIPT
-
 ## Others
 
 - 👋 Hi, I’m **lionel**
@@ -43,11 +35,9 @@ C&C++, HTML5, CSS, JAVASCRIPT
 
 - ⚡️ Fun fact...
 
-### 🗼 How To Reach Me :
-<
 
 ### 📊 Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=toge012345&repo=TOGE-MD-V2&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=toge012345&repo=TOGE-MD-V3&theme=radical)
 
 ---
 
